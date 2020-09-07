@@ -7,7 +7,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/machadomatt/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/machadomatt/cafeapi)
 [![Quality Score](https://img.shields.io/scrutinizer/g/machadomatt/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/machadomatt/cafeapi)
-[![Total Downloads](https://img.shields.io/packagist/dt/machadomatt/cafeapi.svg?style=flat-square)](https://packagist.org/packages/cmachadomatt/cafeapi)
+[![Total Downloads](https://img.shields.io/packagist/dt/machadomatt/cafeapi.svg?style=flat-square)](https://packagist.org/packages/machadomatt/cafeapi)
 
 ###### CaféApi Library is a small set of classes developed in UpInside's Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
