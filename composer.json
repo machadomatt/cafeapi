@@ -1,0 +1,30 @@
+{
+  "name": "machadomatt/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "https://www.cafecontrol.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matheus Machado",
+      "email": "matheusmacsyn@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "MachadoMatt\\CafeApi\\": "src"
+    }
+  }
+}
